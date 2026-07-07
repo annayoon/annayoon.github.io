@@ -106,3 +106,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Timezone for post dates (KST) — 미래 날짜 오판으로 글이 빠지는 것 방지
+timezone: Asia/Seoul
