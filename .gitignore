@@ -4,6 +4,7 @@ _site
 .jekyll-metadata
 .jekyll-cache
 .bundle
+vendor
 .sass-cache
 node_modules
 package.json
